@@ -5,7 +5,7 @@ const provider = 'https://rinkeby.infura.io';
 const eth = new Eth(new Eth.HttpProvider(provider));
 
 //provider account
-const privateKeyString = "0x95435245923454325942353205943592345";
+const privateKeyString = "";
 const account = privateToAccount(privateKeyString); 
 
 //create contract wrapper 
@@ -47,7 +47,6 @@ let filter = futures.contract.Query().new((err, res) => {
 filter.watch().then((result) => {
     // Sanity check
     if ( result.length != 2 ) {
-        callback(new Error("Received invalid Query event"));
         throw; 
     }
 
