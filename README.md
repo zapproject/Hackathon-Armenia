@@ -12,12 +12,12 @@ Feel free to provide expanded interface as needed.
 Projects will be rated on performance, ingenuity, and scalable patterning
 
 Serious bonuses for features like
-    Novel interface
-    SSL verification of oracle data
-    Multiple data sources for oracles, fallback etc
-    Oracle monetization
-    ERC20 payments
-    Futures contract factories
+    Novel interface,
+    SSL verification of oracle data,
+    Multiple data sources for oracles, fallback etc,
+    Oracle monetization,
+    ERC20 payments,
+    Futures contract factories,
     Oracle data(crypto exchange, etc)
     
 Submit .zip file to tom@zap.org
