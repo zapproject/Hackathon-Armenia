@@ -1,6 +1,6 @@
 Implement Oracle + Futures Contract Dapp
 
-Materials tailored to Ethereum + Nodejs but any Oracle-sourced Futures settlesments Welcome, chain-agnostic
+Materials tailored to Ethereum + Nodejs but any Oracle-sourced Futures settlements welcome, platform-agnostic
 
 Using OracleSkeleon.js, FuturesSkeleton.sol as reference connect a data provider( crypto exchange api for example) to a futures contract so that settlement is determined by oracle data
 
