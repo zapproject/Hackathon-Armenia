@@ -18,6 +18,7 @@ Serious bonuses for features like
     Oracle monetization
     ERC20 payments
     Futures contract factories
+    Oracle data(crypto exchange, etc)
     
 Submit .zip file to tom@zap.org
 Include an ethereum address for each team member. Token prizes will be awarded
